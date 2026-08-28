@@ -1,0 +1,5 @@
+CLIMATE_NAME,N_States,Mean_Risk,Std_Risk,Mean_FreezeIndex,Mean_Temp,Mean_Precip
+Dry-Freeze,10,0.454,0.206,534.149,7.737,735.059
+Dry-No Freeze,4,0.399,0.089,77.765,15.136,373.23
+Wet-Freeze,24,0.364,0.152,443.804,9.553,1154.604
+Wet-No Freeze,12,0.364,0.23,22.129,17.823,1257.678

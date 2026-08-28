@@ -1,0 +1,11 @@
+pandas
+numpy
+pyodbc
+SQLAlchemy
+scikit-learn
+xgboost
+shap
+matplotlib
+seaborn
+plotly
+joblib
