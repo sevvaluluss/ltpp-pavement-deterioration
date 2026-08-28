@@ -5,7 +5,7 @@
 **Journal:** Transportation Geotechnics  
 **Manuscript No:** TRGEO-D-26-01076  
 **Authors:** Metehan Alp Memis, Sevval Ulus Memis  
-**Affiliation:** Southern Illinois University Edwardsville (SIUE)
+**Affiliation:** University of Illionis at Urbana-Champaign (UIUC)
 
 ---
 
